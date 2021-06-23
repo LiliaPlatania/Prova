@@ -1,1 +1,1 @@
-Modifica da gitHub
+Prova interfaccia per la risoluzione dei conflitti.
