@@ -1,2 +1,1 @@
-# Prova
-Modifico da remoto senza fare la fetch
+Prova interfaccia per la risoluzione dei conflitti.
