@@ -1,2 +1,2 @@
 # Prova
-Il primo tentativo è stato confusionario per la questione branching. Con ordine, creerò una branch da remoto e lavorerò con quella principale da gitHub.
+Non sono riuscita a modificare il nome di una Branch perché non esisteva. Credo dipenda dal fatto di averla creata su gutHub senza aver eseguito una pull o una fetch (le fetch individua anche nuove branch create?)
