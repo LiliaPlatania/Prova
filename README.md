@@ -1,3 +1,1 @@
-Prova interfaccia per la risoluzione dei conflitti.
-
-Ho utilizzato git reset.
+Non sono riuscita a modificare il nome di una Branch perché non esisteva. Credo dipenda dal fatto di averla creata su gutHub senza aver eseguito una fetch o una pull (le fetch individua anche nuove branch create?)
