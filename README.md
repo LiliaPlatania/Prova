@@ -1,1 +1,1 @@
-# Prova
+Sto resettando il lavoro da terminale. Ho creato una branch partendo dalla prima commit (Quella di inserimento automatico del README), ho considerato come upstream di questa branch la main branch del progetto
